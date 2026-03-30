@@ -1,5 +1,8 @@
 # Mini Forge — Production Dashboard Prototype
 
+## [Mini-Forge Live site for this repo](https://geocolon.github.io/mini-forge/)
+
+
 A React/TypeScript prototype simulating Anduril's ArsenalOS Forge production management interface, built with the same technology stack and architectural patterns observed in Anduril's [sample-app-entity-visualizer](https://github.com/anduril/sample-app-entity-visualizer).
 
 ## Architecture
